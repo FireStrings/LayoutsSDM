@@ -17,6 +17,7 @@ import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
+
     private final String ESTADO_NOTIFICACAO_CHECKBOX = "ESTADO_NOTIFICACAO_CHECKBOX";
     private final String NOTIFICACAO_RADIOBUTTON_SELECIONADO = "NOTIFICACAO_RADIOBUTTON_SELECIONADO";
 
